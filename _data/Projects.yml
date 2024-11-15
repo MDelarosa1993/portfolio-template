@@ -2,20 +2,18 @@ subject: Projects
 listing-order: 3
 icon: "/assets/img/clipboard-list.svg"
 contents:
-  - title: "ChatPPT ([https://chat.opena1.com/](https://chat.openai.com/))"
+  - title: "Viewing Party - https://github.com/MDelarosa1993/viewing-party-api-Mod3"
     description: 
-      - Chatbot developed based on a large language model
-      - Designed Generative algorithm to generate novel human-like content
-      - "Technology Used: Rust, Typescript, Python, Ruby"
-    image: "![](https://i.ibb.co/hX2wYLB/231321.webp)"
-  - title: "AW5-cli ([https://github.com/aw5/aw5-cli](https://github.com/aws/aws-cli))"
+      - Integrated with an external movie API for dynamic data retrieval and seamless user experience.
+      - Developed using Test-Driven Development (TDD) with RSpec for reliable and maintainable code.
+      - Designed custom validations to ensure accurate scheduling, including checks for movie runtime and event duration consistency.
+      - "Technology Used: Ruby on Rails, PostgreSQL, RSpec,  Movie Database API"
+    image: 
+  - title: "Little Shop - https://github.com/CCirbo/Little_Shop, https://github.com/jimmacur/little-shop-fe"
     description: 
-      - Universal Command Line Interface for Amazone Web Services
-      - Developed a scheme to facilitate users’ authentication without having to remember their credentials
-      - "Technology Used: Typescript, Python, Go"
-    image: "![](https://i.ibb.co/Ttb5Qn9/21321312.webp)"
-  - title: "PiTorch ([https://pitorch.org/](https://pytorch.org/))" 
-    description: 
-      - Machine learning library for applications such as computer vision and natural language processing
-      - "Technology Used: Python, Cuda, Objective-C++"
-    image: "![](https://i.ibb.co/R9150c4/12421323.webp)"
+      - E-commerce platform allowing users to browse, create, edit, and delete merchant items, with CRUD functionality for merchants.
+      - Collaborated with a team to build and connect a Rails backend to a front end built with vanilla JavaScript and Vite.
+      - Enhanced the front-end user experience by implementing responsive styling, interactive feedback for clickable elements, and client-side validations.
+      - Refactored JavaScript code to utilize array prototype methods, improving readability and efficiency.
+      - "Technology Used: Ruby on Rails, JavaScript, HTML, CSS, PostgreSQL, Vite"
+    
